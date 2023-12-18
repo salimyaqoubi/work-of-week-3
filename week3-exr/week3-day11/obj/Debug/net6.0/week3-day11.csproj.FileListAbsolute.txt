@@ -1,0 +1,15 @@
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\bin\Debug\net6.0\week3-day11.exe
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\bin\Debug\net6.0\week3-day11.deps.json
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\bin\Debug\net6.0\week3-day11.runtimeconfig.json
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\bin\Debug\net6.0\week3-day11.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\bin\Debug\net6.0\week3-day11.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.csproj.AssemblyReference.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.AssemblyInfoInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.AssemblyInfo.cs
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.csproj.CoreCompileInputs.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\refint\week3-day11.dll
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.pdb
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\week3-day11.genruntimeconfig.cache
+C:\Users\abu_a\OneDrive\سطح المكتب\week3\week3-exr\week3-day11\obj\Debug\net6.0\ref\week3-day11.dll
